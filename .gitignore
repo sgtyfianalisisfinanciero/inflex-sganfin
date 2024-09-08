@@ -1,1 +1,12 @@
+# editor configuration
+.vscode/
+
+# python cached stuff
+__pycache__/
+
+# distribution binaries
 dist/
+
+# office binaries
+*.docx
+*.docx#

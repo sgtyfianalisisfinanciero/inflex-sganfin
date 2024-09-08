@@ -1,0 +1,20 @@
+blocks:
+  - heading: block 1
+    columns:
+      - name: col1 block1
+      - name: col2 block1
+    rows:
+      - report_name: 'row1 block1'
+      - report_name: 'row2 block1'
+      - report_name: 'row3 block1'
+  - heading: block 2
+    columns: 
+      - name: col1 block2
+      - name: col2 block2
+    rows:
+      - report_name: 'row1 block2'
+      - report_name: 'row2 block2'
+      - report_name: 'row3 block2'
+
+block_separation: true
+stack_axis: 0
