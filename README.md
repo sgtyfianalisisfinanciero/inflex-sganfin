@@ -1,0 +1,3 @@
+# InFlex
+
+Flexible report generator
